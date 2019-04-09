@@ -15,16 +15,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/WigWagCo/greaseLog"
+    "url": "https://github.com/armPelionEdge/greaseLog"
   },
   "bugs": {
-    "url": "https://github.com/WigWagCo/greaseLog/issues"
+    "url": "https://github.com/armPelionEdge/greaseLog/issues"
   },
   "gypfile": true,
   "dependencies": {
     "nan": "*"
   },
-  "homepage": "https://github.com/WigWagCo/grease-log-client",
+  "homepage": "https://github.com/armPelionEdge/grease-log-client",
   "directories": {
     "test": "test"
   },

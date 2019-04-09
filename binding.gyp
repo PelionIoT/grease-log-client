@@ -3,6 +3,7 @@
 
 #    MIT License
 #
+#    Copyright (c) 2019 Arm Limited and affiliates.
 #    Copyright (c) 2018 WigWag Inc.
 #
 #    Permission is hereby granted, free of charge, to any person obtaining a copy
